@@ -1,0 +1,19 @@
+/**
+* @name PixelTheme
+* @version Auto Update
+* @description PixelTheme is cool
+* @author NongTham
+* @Source https://github.com/codedotspectra/themes
+* @website https://betterdiscord.app/theme/Nocturnal
+*/
+@import url("https://codedotspectra.github.io/themes/themes-cores/nocturnal.css");
+@import url('https://fonts.googleapis.com/css2?family=VCR+OSD+MONO');
+@import url('https://codedotspectra.github.io/themes/core/custom-font.css');
+:root {
+--mainColor: #2275c9;
+--backgroundColor01: #151515;
+--backgroundColor02: #101010;
+--gradientColor01: #9B00F5FF;
+--gradientColor02: #909090FF;
+--customFont: 'VCR OSD MONO';
+}
